@@ -22,7 +22,9 @@ Atualmente atuo na empresa **Nova Gestões**, em ambiente jurídico, enquanto co
 ## 🎯 Objetivo
 Me tornar desenvolvedor Java e atuar profissionalmente na área de tecnologia.
 
-🚀 Disciplina acima da motivação.
+---
+
+## 🚀 Disciplina acima da motivação.
 
 ---
 
