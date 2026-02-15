@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Lucas Jussen
 
-<!--
-**lucasjussen/lucasjussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profissional em transição de carreira para a área de Tecnologia, com foco em desenvolvimento Java.
 
-Here are some ideas to get you started:
+Atualmente atuo na empresa **Nova Gestões**, em ambiente jurídico, enquanto construo minha base sólida em programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Estudando atualmente
+- Java
+- Lógica de programação
+- Boas práticas de código
+- Estrutuas Condicionais
+
+🎯 Objetivo: me tornar desenvolvedor.
+
+🚀 Disciplina acima da motivação.
+
+![Jussen GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasjussen&show_icons=true&theme=dracula)
