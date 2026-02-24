@@ -1,6 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Lucas Jussen</h1>
 
----
 
 ## 👩‍💻 Sobre mim
 
