@@ -6,8 +6,6 @@ Profissional em transição de carreira para a área de Tecnologia, com foco em 
 
 Atualmente atuo na empresa **Nova Gestões**, em ambiente jurídico, enquanto construo uma base sólida em programação.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na PUCPR.
-
 ---
 
 ## 💻 Estudando atualmente
