@@ -2,9 +2,9 @@
 
 ## 👩‍💻 Sobre mim
 
-Profissional em transição de carreira para a área de Tecnologia, com foco em desenvolvimento Java.
+Profissional da área de Tecnologia da Informação com foco em desenvolvimento Java e Engenharia de Software.
 
-Atualmente atuo na empresa **Nova Gestões**, em ambiente jurídico, enquanto construo uma base sólida em programação.
+Atualmente atuo na equipe de T.I. da empresa Monetali, aplicando soluções tecnológicas no dia a dia enquanto sigo expandindo minha base técnica na construção de aplicações robustas e funcionais.
 
 ---
 
