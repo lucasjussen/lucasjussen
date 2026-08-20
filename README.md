@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Lucas 👋</h1>
 
-<h3 align="center">TI Generalista @ Monetali | Automação & Integração de Sistemas | Formando em ADS</h3>
+<h3 align="center">TI Generalista @ Monetali | Arquitetura de Automação & IA | Formando em ADS</h3>
 
 ---
 
@@ -56,7 +56,11 @@ Estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na PUCPR e uso m
 
 ## 🎯 Objetivo
 
-Consolidar minha atuação como **desenvolvedor Java**, unindo a experiência prática que já tenho em infraestrutura, automação e integração de sistemas a uma base sólida de engenharia de software.
+Aprofundar-me tecnicamente em **arquitetura de soluções com IA** — orquestração de LLMs, design de fluxos de automação inteligente e integração de modelos em sistemas produtivos — unindo isso à base de engenharia de software que venho construindo em Java.
+
+**🏆 Conquista recente:** em menos de 2 meses, migrando da operação de TI generalista para atuar como **Analista de IA**, aplicando na prática arquitetura de automação (n8n + Claude API + integrações de CRM) em projetos reais da empresa.
+
+Quero me tornar um profissional de referência na interseção **TI + IA**, usando tecnologia para resolver problemas reais e ajudar pessoas e times a trabalharem melhor.
 
 ---
 
