@@ -48,10 +48,6 @@ Estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na PUCPR e uso m
 - Workflow em **n8n** com nó de código (JavaScript) para parsing de dados de ponto (Pontomais) e cálculo de saldo de horas.
 - Sincronização de dados de colaboradores do Bitrix24 para planilhas de controle.
 
-**💜 AMORFLIX**
-- Site estilo Netflix construído em **HTML/CSS/JS puro**, com navegação por "catálogo", modais e conteúdo totalmente personalizado.
-- Projeto pessoal que reforça fundamentos de front-end e manipulação de DOM fora do contexto profissional.
-
 ---
 
 ## 🎯 Objetivo
@@ -61,10 +57,6 @@ Aprofundar-me tecnicamente em **arquitetura de soluções com IA** — orquestra
 **🏆 Conquista recente:** em menos de 2 meses, migrando da operação de TI generalista para atuar como **Analista de IA**, aplicando na prática arquitetura de automação (n8n + Claude API + integrações de CRM) em projetos reais da empresa.
 
 Quero me tornar um profissional de referência na interseção **TI + IA**, usando tecnologia para resolver problemas reais e ajudar pessoas e times a trabalharem melhor.
-
----
-
-## 🚀 Disciplina acima da motivação.
 
 ---
 
