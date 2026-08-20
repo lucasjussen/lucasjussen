@@ -21,16 +21,36 @@ Estou cursando **Análise e Desenvolvimento de Sistemas (ADS)** na PUCPR e uso m
 ## 🚀 Projetos em destaque
 
 **🎫 ITDesk** — SaaS de helpdesk de TI
-Backend construído em **Spring Boot (Java)**, com MVP funcional já validado. Em desenvolvimento: migração para PostgreSQL e construção do frontend.
+- Backend em **Java + Spring Boot**, seguindo arquitetura em camadas (Controller → Service → Repository).
+- MVP funcional já validado localmente, com ambiente de desenvolvimento configurado e problemas de setup resolvidos.
+- Em andamento: migração da persistência para **PostgreSQL** (atualmente em banco local/H2) e construção do frontend para consumir a API REST.
+- Objetivo: produto real de gestão de chamados, aplicando na prática conceitos de modelagem de dados, autenticação e design de API que estou estudando na ADS.
 
-**🤖 Automação de prospecção multicanal**
-Sistema de automação para equipe de SDRs, integrando **n8n**, **Bitrix24**, **WhatsApp Cloud API** e **Claude API** para orquestrar prospecção outbound em escala.
+**🤖 Automação de prospecção multicanal (40 SDRs)**
+- Orquestração via **n8n**, com fluxos disparando e monitorando prospecção em múltiplos canais.
+- Integração bidirecional com o CRM **Bitrix24** (criação/atualização de leads, mudança de estágio no pipeline, atribuição automática de SDR).
+- Disparo e recebimento de mensagens via **WhatsApp Cloud API** (Business Platform), incluindo tratamento de webhooks.
+- Uso da **Claude API** para geração e qualificação de mensagens dentro do fluxo de automação.
+- Documentação formal de arquitetura produzida para validação técnica do projeto.
 
 **⚖️ SPA Jurídico (Bitrix24)**
-Workflow jurídico assistido por IA, integrando Claude API, n8n e sistemas parceiros externos, mapeando todo o processo dentro do CRM.
+- Aplicação SPA customizada dentro do Bitrix24, mapeando um workflow jurídico completo (da entrada da demanda até o encerramento).
+- Automações condicionais por estágio do pipeline, com integração à **Claude API** para apoio na análise de processos.
+- Orquestração de chamadas externas via **n8n**, incluindo integração com parceiro externo (Vitbank).
+
+**👥 Recrutamento & Seleção (Bitrix24)** — construído do zero
+- 8 estágios de pipeline com automações condicionais em cada transição.
+- Nomeação dinâmica de cards, disparo automático de e-mail para candidatos e timers de follow-up de 2 dias pós-entrevista.
+- Criação automática de tarefa de onboarding de TI ao fechar a contratação.
+- Entrega de relatório técnico de implementação + manual operacional para o time de RH.
+
+**🔄 Sincronização Bitrix24 ↔ Google Sheets (Banco de Horas)**
+- Workflow em **n8n** com nó de código (JavaScript) para parsing de dados de ponto (Pontomais) e cálculo de saldo de horas.
+- Sincronização de dados de colaboradores do Bitrix24 para planilhas de controle.
 
 **💜 AMORFLIX**
-Site personalizado no estilo Netflix, desenvolvido como presente — projeto pessoal que reforça minha paixão por criar experiências web completas do zero.
+- Site estilo Netflix construído em **HTML/CSS/JS puro**, com navegação por "catálogo", modais e conteúdo totalmente personalizado.
+- Projeto pessoal que reforça fundamentos de front-end e manipulação de DOM fora do contexto profissional.
 
 ---
 
@@ -62,7 +82,19 @@ Consolidar minha atuação como **desenvolvedor Java**, unindo a experiência pr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 </div>
 
-**Ferramentas e plataformas:** n8n · Bitrix24 · Microsoft 365 / Entra ID · UniFi · GLPI · WhatsApp Cloud API · Claude API
+**Ferramentas e plataformas:**
+
+| Categoria | Stack |
+|---|---|
+| Backend | Java, Spring Boot, arquitetura em camadas, APIs REST |
+| Banco de dados | PostgreSQL, H2 |
+| Automação / Integração | n8n (webhooks, Code nodes em JS), REST APIs, OAuth |
+| CRM | Bitrix24 (SPAs customizadas, automações de pipeline, Bitrix24 REST API) |
+| Cloud & IA | Claude API (Anthropic), integração de LLM em fluxos de automação |
+| Mensageria | WhatsApp Cloud API (Business Platform) |
+| Identidade & M365 | Microsoft Entra ID, Conditional Access, MFA, Microsoft Graph PowerShell |
+| Redes & Infra | UniFi Network (traffic rules, troubleshooting Wi-Fi), GLPI |
+| Versionamento | Git / GitHub |
 
 ---
 
