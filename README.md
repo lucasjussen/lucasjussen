@@ -12,12 +12,6 @@
 
 Trabalho com **IA aplicada a processos de negócio**: integro LLMs, APIs e automações para tirar tarefas manuais do caminho das equipes.
 
-Na Monetali, fui responsável pela automação e IA da empresa, com fluxos em produção para jurídico, RH, comercial, marketing e TI usando n8n, Bitrix24, Microsoft Graph, APIs da Meta e a API do Claude.
-
-Estudo Análise e Desenvolvimento de Sistemas na **PUCPR** e hoje me aprofundo em **RAG, agentes de IA e avaliação de LLMs**.
-
-📌 Projetos: [ai-automation-portfolio](https://github.com/lucasjussen/ai-automation-portfolio)
-
 ---
 
 ## 🛠 Tecnologias
