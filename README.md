@@ -2,6 +2,7 @@
 <h3 align="center">Analista de IA & Automações</h3>
 
 <p align="center">
+  <a href="https://lucasjussen.github.io"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfólio"/></a>
   <a href="https://linkedin.com/in/lucasjussen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:lucassjussen@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </p>
@@ -11,6 +12,10 @@
 ## 👨‍💻 Sobre mim
 
 Trabalho com **IA aplicada a processos de negócio**: integro LLMs, APIs e automações para tirar tarefas manuais do caminho das equipes.
+
+🌐 Conheça meu trabalho de um jeito interativo em **[lucasjussen.github.io](https://lucasjussen.github.io)**: pergunte qualquer coisa sobre meus projetos.
+
+📂 Projetos com código e documentação: **[ai-automation-portfolio](https://github.com/lucasjussen/ai-automation-portfolio)**
 
 ---
 
